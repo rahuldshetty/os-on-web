@@ -8,7 +8,7 @@ Run any GUI application inside containers running native Docker images. The Oper
 
 # Screenshots
 
-![Latest Ubuntu Image]()
+![Latest Ubuntu Image](https://raw.githubusercontent.com/rahuldshetty/os-on-web/master/screenshots/Ubuntu.JPG)
 
 # Setup
 1) Build the docker image using the following command: `docker build -t ubuntu-web Dockerfile.ubuntu`

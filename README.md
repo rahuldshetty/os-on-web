@@ -5,15 +5,18 @@ Run any GUI application inside containers running native Docker images. The Oper
 
 # Supported Images
 
-All images will be available in Dockerhub: [os-on-web](https://hub.docker.com/repository/docker/rahuldshetty/os-on-web)
+All images will be available in Dockerhub: [os-on-web](https://hub.docker.com/r/rahuldshetty/os-on-web)
 
 | No.  | Base Image  |  Dockerhub  |
 | ----------- | ----------- | ----------- |
 | 1     | Ubuntu      | rahuldshetty/os-on-web:ubuntu      |
+| 2    | Kali      | rahuldshetty/os-on-web:kali      |
 
 You can directly run the image as `docker run -p 6080:6080 rahuldshetty/os-on-web:ubuntu`
 
 # Screenshots
+
+![Latest Kali Image](https://raw.githubusercontent.com/rahuldshetty/os-on-web/master/screenshots/Kali.JPG)
 
 ![Latest Ubuntu Image](https://raw.githubusercontent.com/rahuldshetty/os-on-web/master/screenshots/Ubuntu.JPG)
 
